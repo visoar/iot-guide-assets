@@ -1,0 +1,41 @@
+{
+  "collection": "物联网指北",
+  "updated": "2026-10-17",
+  "assets": [
+    {
+      "file": "mqtt-recovery/03-device/cover.png",
+      "sha256": "1c6f7ec4976a8da2042f65e2fe13a403181a8e0b4ce20fa804a5332f5ae4b291",
+      "width": 1919,
+      "height": 820,
+      "bytes": 1647239
+    },
+    {
+      "file": "mqtt-recovery/03-device/fig01-ready.png",
+      "sha256": "73ddf8e4474dfc085122949438cfd2af67e242a3be14ffec2291dea274f01e1f",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1284209
+    },
+    {
+      "file": "mqtt-recovery/03-device/fig02-session.png",
+      "sha256": "10b64d6c8bdb8dbd4b7b4a7a0457d67da5f386d384a24969fc5aa21528b230a0",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1189642
+    },
+    {
+      "file": "mqtt-recovery/03-device/fig03-state.png",
+      "sha256": "bfc172afffa4c25b9e3f0cd54fc3bb9ee94830861c7cf3a54f44c1b64ce7ffcf",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1312043
+    },
+    {
+      "file": "mqtt-recovery/03-device/fig04-outbox.png",
+      "sha256": "bc970ff693fd405d067bae4891a1a113afacf4d0ef89b4cde729f66cc8fedd99",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1559511
+    }
+  ]
+}
